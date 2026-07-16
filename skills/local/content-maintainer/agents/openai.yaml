@@ -1,0 +1,4 @@
+interface:
+  display_name: "内容维护助手"
+  short_description: "整理并添加知识库内容，同时维护 README 导航"
+  default_prompt: "使用 $content-maintainer 将这份材料整理并添加到知识库。"
