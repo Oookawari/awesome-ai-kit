@@ -8,6 +8,10 @@
 
 ### 按目标查找
 
+#### 通用 AI 使用
+
+- [将模糊需求优化为清晰 Prompt](prompts/prompt-optimizer/README.md)
+
 #### 科研
 
 - [创建每日科研简报 Automation](prompts/daily-research-brief/README.md)
