@@ -14,6 +14,7 @@
 
 #### 科研
 
+- [翻译学术论文并生成中文 PDF](prompts/academic-paper-translator/README.md)
 - [创建每日科研简报 Automation](prompts/daily-research-brief/README.md)
 
 #### 内容维护
